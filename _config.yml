@@ -1,26 +1,26 @@
 # Site settings
-title: Klise Theme # site title
+title: Michalis Kaseris # site title
 description: >- # site description
   He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  for documentation things that he learned, meet him <a href="https://github.com/kaseris" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
+timezone: Europe/Athens # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
-mode: dark # default theme "dark" | "light"
+mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Jekyll Klisé # author name
-  bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+  name: Michalis Kaseris # author name
+  bio: >-
+    Welcome to my blog! <br/> A nerd🤓 who loves Machine Learning and Algorithms <br/> 
+    This is my attempt to document my learning journey.
+  username: Michalis Kaseris # general username
+  github: kaseris # github username
+  twitter: MKaseris # twitter username
+  facebook: michalis.kaseris # facebook username
+  email: mich.kaseris@gmail.com # email adress
+  avatar: assets/img/IMG_6630_crp.jpg
 
 # URL settings
 url: "https://klise.now.sh" #
